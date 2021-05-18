@@ -1,0 +1,25 @@
+/* svg */
+object {
+  display: block;
+  margin: 0%;
+  width: 100%;
+  height: auto;
+  }
+
+body {
+  overflow-x: hidden; /*dit zorgt ervoor dat die horizontale scroll er niet is*/
+  background-color: #008080;
+}
+
+h1 {
+  position: absolute;
+  text-align: center;
+  left: 36vw;
+  top: 7vw;
+   font-family: "Open Sans", sans-serif;
+  font-size: 2vw;
+  z-index: 1;
+}
+
+
+
