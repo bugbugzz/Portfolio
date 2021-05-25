@@ -17,7 +17,7 @@
     <rect id="title" width="1890" height="63" transform="translate(15 10)" fill="#dcd5ff"/>
     <a href="/" target="_top"> <text id="Home" transform="translate(21 106)" fill="#ff5c89" font-size="21" font-family="ArialMT, Arial"><tspan x="0" y="0">Home</tspan></text></a>
 
-    <a xlink:href="/Music.html" target="_top"> <text id="Music" transform="translate(102 106)" fill="#ff5c89" font-size="21" font-family="ArialMT, Arial"><tspan x="0" y="0">Music</tspan></text></a>
+    <a xlink:href="https://bugbugzz.github.io/Music.html" target="_top"> <text id="Music" transform="translate(102 106)" fill="#ff5c89" font-size="21" font-family="ArialMT, Arial"><tspan x="0" y="0">Music</tspan></text></a>
 
     <a xlink:href="/Electronics.html" target="_top"> <text id="Electronics" transform="translate(182 106)" fill="#ff5c89" font-size="21" font-family="ArialMT, Arial"><tspan x="0" y="0">Electronics</tspan></text></a>
 
