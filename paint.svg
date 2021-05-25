@@ -21,7 +21,7 @@
 
     <a xlink:href="https://bugbugzz.github.io/Portfolio/Electronics.html" target="_top"> <text id="Electronics" transform="translate(182 106)" fill="#ff5c89" font-size="21" font-family="ArialMT, Arial"><tspan x="0" y="0">Electronics</tspan></text></a>
 
-    <a xlink:href="/Guitarstand.html" target="_top"> <text id="Guitarstand" transform="translate(305 106)" fill="#ff5c89" font-size="21" font-family="ArialMT, Arial"><tspan x="0" y="0">Guitarstand</tspan></text></a>
+    <a xlink:href="https://bugbugzz.github.io/Portfolio/Guitarstand.html" target="_top"> <text id="Guitarstand" transform="translate(305 106)" fill="#ff5c89" font-size="21" font-family="ArialMT, Arial"><tspan x="0" y="0">Guitarstand</tspan></text></a>
     
     <a xlink:href="/Other.html" target="_top"> <text id="Other" transform="translate(438 106)" fill="#ff5c89" font-size="21" font-family="ArialMT, Arial"><tspan x="0" y="0">Other</tspan></text></a>
     <line id="upperborder" x2="1920" y2="2" fill="none" stroke="#ff5c89" stroke-width="4"/>
